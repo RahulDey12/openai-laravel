@@ -14,7 +14,6 @@
         "guzzlehttp/guzzle": "^7.5",
         "illuminate/support": "^9.46.0|^10.7.1",
         "illuminate/contracts": "^9.46.0|^10.7.1",
-        "illuminate/config": "^9.46.0|^10.7.1",
         "openai-php/client": "^0.4.2"
     },
     "require-dev": {
