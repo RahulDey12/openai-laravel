@@ -35,7 +35,7 @@ jobs:
     - name: Require Laravel Version
       run: >
         composer require
-        "laravel/framework:${{ matrix.laravel }}"
+        "illuminate/support:${{ matrix.laravel }}"
         --no-interaction --no-update
 
     - name: Install Composer dependencies
